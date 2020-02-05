@@ -1,20 +1,8 @@
 {
   "name": "web",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/open-source-ph/barangay-web.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/open-source-ph/barangay-web/issues"
-  },
-  "homepage": "https://github.com/open-source-ph/barangay-web#readme"
+  "repository": "git@github.com:open-source-ph/barangay-web.git",
+  "author": "BosEriko <bos.eriko@gmail.com>",
+  "license": "MIT"
 }
